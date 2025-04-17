@@ -2,13 +2,13 @@ Here’s a clean and professional **GitHub project description (README)** for yo
 
 ---
 
-## 🛍️ Myntra Clone
+##  Myntra Clone
 
 A fully responsive e-commerce website inspired by Myntra, built using HTML, CSS, and JavaScript. This project replicates the core functionalities and UI/UX of the original Myntra platform, including product listings, filtering, cart management, and user authentication simulation.
 
 ---
 
-### 🚀 Features
+###  Features
 
 - Homepage with banners and navigation
 - Product listing with images, price, and descriptions
@@ -19,7 +19,7 @@ A fully responsive e-commerce website inspired by Myntra, built using HTML, CSS,
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Tools:** Git, VS Code
@@ -28,7 +28,7 @@ A fully responsive e-commerce website inspired by Myntra, built using HTML, CSS,
 
 
 
-### 📁 How to Run
+###  How to Run
 
 1. Clone the repository:
    ```bash
@@ -47,7 +47,7 @@ A fully responsive e-commerce website inspired by Myntra, built using HTML, CSS,
 
 ---
 
-### 📌 Future Enhancements *(Optional)*
+###  Future Enhancements *(Optional)*
 
 - Backend integration for login and checkout
 - Wishlist functionality
