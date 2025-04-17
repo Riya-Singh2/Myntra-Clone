@@ -1,6 +1,5 @@
-Here’s a clean and professional **GitHub project description (README)** for your **Myntra Clone** project:
 
----
+
 
 ##  Myntra Clone
 
