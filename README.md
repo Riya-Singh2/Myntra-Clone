@@ -26,10 +26,7 @@ A fully responsive e-commerce website inspired by Myntra, built using HTML, CSS,
 
 ---
 
-### 📷 Screenshots  
-*(Optional: Add screenshots of the homepage, product page, and cart page)*
 
----
 
 ### 📁 How to Run
 
@@ -65,4 +62,4 @@ GitHub: [Riya-Singh2](https://github.com/Riya-Singh2)
 
 ---
 
-Let me know if you want this saved as a `.md` file for direct upload or want me to help link your deployed site (if hosted anywhere like GitHub Pages).
+
